@@ -1,6 +1,12 @@
 # Game of Life
 A Java program that simulates Conway's Game of Life
 
+<h2>Installation</h2>
+This program requires the Java Development Kit (JDK) for compilation and execution of the program.
+
+The JDK can be downloaded from Oracle's website: https://www.oracle.com/java/technologies/downloads/
+
+
 <h2>Compilation</h2>
 In terminal: <code>javac Sim453.java</code>
 
