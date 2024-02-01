@@ -1,7 +1,5 @@
 /******************************************************************************
- *  Assignment 1: A Game of Life simulation
- *  Completed by Muneeb Azher, 201939162
- *  Submitted to: Mark Hatcher, COMP 3201 - Nature Inspired Computing
+ *  A Game of Life simulation
  *
  *  Compilation:  javac Sim453.java
  *  Execution:    java Sim453 n P
